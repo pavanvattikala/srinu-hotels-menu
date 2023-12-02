@@ -1,48 +1,40 @@
-const menu = [
-  {
-    id: 1,
-    title: "Chiken Biriyani",
-    category: "Biriyani",
-    price: 230,
-    desc: `Very good chiken biriyani`,
-  },
-  {
-    id: 2,
-    title: "Chiken Biriyani",
-    category: "Biriyani",
-    price: 230,
-    desc: `Very good chiken biriyani`,
-  },
-  {
-    id: 3,
-    title: "Chiken Biriyani",
-    category: "Biriyani",
-    price: 230,
-    desc: `Very good chiken biriyani`,
-  },
-  {
-    id: 4,
-    title: "Chiken Biriyani",
-    category: "Biriyani",
-    price: 230,
-    desc: `Very good chiken biriyani`,
-  },
-];
-
 const section = document.querySelector(".section-center");
 const btnContainer = document.querySelector(".btn-container");
 
-const categories = menu.reduce(
-  (values, item) => {
-    if (!values.includes(item.category)) {
-      values.push(item.category);
-    }
-    return values;
-  },
-  ["All"]
-);
+// Function to fetch menu data from menu.json
+const fetchMenuData = async () => {
+  try {
+    const response = await fetch("menu.json");
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error("Error fetching menu data:", error);
+  }
+};
 
-const categoryList = () => {
+// Update menuList function to accept menuItems as a parameter
+const menuList = (menuItems) => {
+  let displayMenu = menuItems.map((item) => {
+    return `<div class="menu-items col-lg-6 col-sm-12">
+          <div class="menu-info">
+            <div class="menu-title">
+              <h4>${item.title}</h4>
+              <h4 class="price"> ₹${item.priceAC} (AC) <br> ₹${item.priceNonAC} (Non-AC)</h4>
+            </div>
+            <div class="menu-text">
+              ${item.desc}
+            </div>
+          </div>
+        </div>
+  `;
+  });
+
+  displayMenu = displayMenu.join("");
+  section.innerHTML = displayMenu;
+};
+
+// Function to update category buttons
+const categoryList = (categories, menu) => {
   const categoryBtns = categories
     .map((category) => {
       return `<button class="btn btn-outline-dark btn-item" data-id=${category}>${category}</button>`;
@@ -52,7 +44,7 @@ const categoryList = () => {
   btnContainer.innerHTML = categoryBtns;
   const filterBtns = document.querySelectorAll(".btn-item");
 
-  //filter menu
+  // filter menu
   filterBtns.forEach((btn) => {
     btn.addEventListener("click", (e) => {
       const category = e.currentTarget.dataset.id;
@@ -71,24 +63,23 @@ const categoryList = () => {
   });
 };
 
-const menuList = (menuItems) => {
-  let displayMenu = menuItems.map((item) => {
-    return `<div class="menu-items col-lg-6 col-sm-12">
-          <div class="menu-info">
-            <div class="menu-title">
-              <h4>${item.title}</h4>
-              <h4 class="price"> ₹${item.price}</h4>
-            </div>
-            <div class="menu-text">
-              ${item.desc}
-            </div>
-          </div>
-        </div>
-  `;
-  });
-  displayMenu = displayMenu.join("");
-  section.innerHTML = displayMenu;
+// Call the loadMenu function to initialize the menu
+const loadMenu = async () => {
+  const menuData = await fetchMenuData();
+  if (menuData) {
+    menuList(menuData);
+    const categories = menuData.reduce(
+      (values, item) => {
+        if (!values.includes(item.category)) {
+          values.push(item.category);
+        }
+        return values;
+      },
+      ["All"]
+    );
+    categoryList(categories, menuData);
+  }
 };
 
-menuList(menu);
-categoryList();
+// Call the loadMenu function to initialize the menu
+loadMenu();
