@@ -15,18 +15,57 @@ const fetchMenuData = async () => {
 // Update menuList function to accept menuItems as a parameter
 const menuList = (menuItems) => {
   let displayMenu = menuItems.map((item) => {
-    return `<div class="menu-items col-lg-6 col-sm-12">
+    if (item.price) {
+      return `<div class="menu-items col-lg-6 col-sm-12">
           <div class="menu-info">
             <div class="menu-title">
               <h4>${item.title}</h4>
-              <h4 class="price"> ₹${item.priceAC} (AC) <br> ₹${item.priceNonAC} (Non-AC)</h4>
+              <h4 class="price"> ₹${item.price}</h4>
             </div>
             <div class="menu-text">
               ${item.desc}
             </div>
           </div>
         </div>
-  `;
+    `;
+    } else if (item.price_full || item.price_single) {
+      return `<div class="menu-items col-lg-6 col-sm-12">
+  <div class="menu-info">
+    <div class="menu-title">
+      <h4>${item.title}</h4>
+
+      ${(() => {
+        if (item.price_single && item.price_full) {
+          return `<h4 class="price"> ₹${item.price_single} (Single) <br> ${item.price_full} (Full)</h4>`;
+        } else if (item.price_single) {
+          return `<h4 class="price"> ₹${item.price_single} (Single)</h4>`;
+        } else if (item.price_full) {
+          return `<h4 class="price"> ₹${item.price_full} (Full)</h4>`;
+        } else {
+          return ""; // No prices, empty string
+        }
+      })()}
+
+    </div>
+    <div class="menu-text">
+      ${item.desc}
+    </div>
+  </div>
+</div>`;
+    } else {
+      return `<div class="menu-items col-lg-6 col-sm-12">
+            <div class="menu-info">
+              <div class="menu-title">
+                <h4>${item.title}</h4>
+                <h4 class="price"> ₹${item.price_AC} (AC) <br> ₹${item.price_Non_AC} (Non-AC)</h4>
+              </div>
+              <div class="menu-text">
+                ${item.desc}
+              </div>
+            </div>
+          </div>
+    `;
+    }
   });
 
   displayMenu = displayMenu.join("");
