@@ -9,13 +9,6 @@ body {
   font-family: "Zilla Slab", serif;
 }
 
-h2 {
-  font-family: "Great Vibes", cursive;
-  font-size: 3rem;
-  text-align: center;
-  color: #ff6a23;
-}
-
 .menu {
   margin-top: 20px;
 }
@@ -66,4 +59,20 @@ h4 {
 
 .menu-text {
   padding-top: 20px;
+}
+
+.logo {
+  width: 30%;
+  background-color: #f1f5f8;
+}
+
+.title {
+  display: flex;
+  flex-direction: row;
+}
+
+.title h2 {
+  font-size: 3rem;
+  text-align: center;
+  color: #ff6a23;
 }
