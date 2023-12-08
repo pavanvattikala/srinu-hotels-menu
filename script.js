@@ -42,7 +42,7 @@ const menuList = (menuItems) => {
         } else if (item.price_full) {
           return `<h4 class="price"> ₹${item.price_full} (Full)</h4>`;
         } else {
-          return ""; // No prices, empty string
+          return "MRP"; // No prices, empty string
         }
       })()}
 
@@ -52,7 +52,7 @@ const menuList = (menuItems) => {
     </div>
   </div>
 </div>`;
-    } else {
+    } else if (item.price_AC || item.price_Non_AC) {
       return `<div class="menu-items col-lg-6 col-sm-12">
             <div class="menu-info">
               <div class="menu-title">
@@ -65,6 +65,19 @@ const menuList = (menuItems) => {
             </div>
           </div>
     `;
+    } else {
+      return `<div class="menu-items col-lg-6 col-sm-12">
+            <div class="menu-info">
+              <div class="menu-title">
+                <h4>${item.title}</h4>
+                <h4 class="price"> As Per MRP </h4>
+              </div>
+              <div class="menu-text">
+                ${item.desc}
+              </div>
+            </div>
+          </div>
+      `;
     }
   });
 
