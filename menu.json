@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": " ANDHRA VEG MEALS BUFFET",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 120,
     "price_Non_AC": 100,
     "desc": "Delicious vegetarian meals for a wholesome dining experience."
@@ -10,7 +10,7 @@
   {
     "id": 2,
     "title": "RAGI SANGATI",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 120,
     "price_Non_AC": 100,
     "desc": "A nutritious and flavorful dish featuring Ragi Sangati."
@@ -18,7 +18,7 @@
   {
     "id": 3,
     "title": "PLAIN PULAO",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 100,
     "price_Non_AC": 100,
     "desc": "Simple yet satisfying plain pulao to complement your meal."
@@ -26,7 +26,7 @@
   {
     "id": 4,
     "title": " PLAIN RICE WITH CHICKEN",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 160,
     "price_Non_AC": 150,
     "desc": "Tender chicken paired with fragrant rice for a delightful experience."
@@ -34,7 +34,7 @@
   {
     "id": 5,
     "title": "CHICKEN CURRY (PER 2)",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 150,
     "price_Non_AC": 150,
     "desc": "A savory chicken curry to satisfy your taste buds."
@@ -42,7 +42,7 @@
   {
     "id": 6,
     "title": "GONGURA CHICKEN (PER 2)",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 160,
     "price_Non_AC": 160,
     "desc": "Chicken infused with the tangy flavor of Gongura leaves."
@@ -50,7 +50,7 @@
   {
     "id": 7,
     "title": "GREEN CHICKEN (MINT)",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 160,
     "price_Non_AC": 160,
     "desc": "Chicken with a refreshing twist of mint for a burst of flavor."
@@ -58,7 +58,7 @@
   {
     "id": 8,
     "title": "CHICKEN IGURU",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 180,
     "price_Non_AC": 180,
     "desc": "Spicy and aromatic chicken iguru to spice up your meal."
@@ -66,7 +66,7 @@
   {
     "id": 9,
     "title": "CHICKEN FRY WITH BONE",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 150,
     "price_Non_AC": 150,
     "desc": "Crispy and flavorful chicken fry for a delightful crunch."
@@ -74,7 +74,7 @@
   {
     "id": 10,
     "title": "MUTTON CURRY",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 320,
     "price_Non_AC": 300,
     "desc": "Tender mutton curry cooked to perfection for meat lovers."
@@ -82,7 +82,7 @@
   {
     "id": 11,
     "title": "PLAIN PULAO WITH CHICKEN",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 220,
     "price_Non_AC": 200,
     "desc": "A delightful combination of plain pulao with succulent chicken."
@@ -90,7 +90,7 @@
   {
     "id": 12,
     "title": "PLAIN PULAO WITH MUTTON",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 320,
     "price_Non_AC": 300,
     "desc": "Savor the richness of mutton paired with fragrant plain pulao."
@@ -98,7 +98,7 @@
   {
     "id": 13,
     "title": "PLAIN PULAO WITH PRAWNS",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 350,
     "price_Non_AC": 350,
     "desc": "A seafood delight with plain pulao and succulent prawns."
@@ -106,7 +106,7 @@
   {
     "id": 14,
     "title": "MUTTON FRY",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 320,
     "price_Non_AC": 320,
     "desc": "Indulge in the crispy goodness of mutton fry for a flavorful experience."
@@ -114,7 +114,7 @@
   {
     "id": 15,
     "title": "RAGI SANGATI WITH CHICKEN",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 200,
     "price_Non_AC": 180,
     "desc": "Nutrient-packed Ragi Sangati served with tender chicken for a wholesome meal."
@@ -122,7 +122,7 @@
   {
     "id": 16,
     "title": "RAGI SANGATI WITH MUTTON",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 320,
     "price_Non_AC": 300,
     "desc": "Ragi Sangati paired with succulent mutton for a hearty dining experience."
@@ -130,7 +130,7 @@
   {
     "id": 17,
     "title": "MUTTON TALAKAYA KURA",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 200,
     "price_Non_AC": 200,
     "desc": "Tender mutton talakaya kura cooked to perfection for meat lovers."
@@ -138,7 +138,7 @@
   {
     "id": 18,
     "title": "MUTTON BOTTI CURRY",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 150,
     "price_Non_AC": 150,
     "desc": "Tender mutton botti curry cooked to perfection for meat lovers."
@@ -146,7 +146,7 @@
   {
     "id": 19,
     "title": "NELLURU CHEPALA PULUSU (2 pie)",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 150,
     "price_Non_AC": 150,
     "desc": "A coastal delight featuring Nelluru Chepala Pulusu for seafood enthusiasts."
@@ -154,7 +154,7 @@
   {
     "id": 20,
     "title": "RICE WITH CHEPALA PULUSU",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 180,
     "price_Non_AC": 180,
     "desc": "Enjoy the perfect blend of rice and Chepala Pulusu for a flavorful meal."
@@ -162,7 +162,7 @@
   {
     "id": 21,
     "title": "RAGI SANGATI WITH CHEPALA PULUSU",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 200,
     "price_Non_AC": 200,
     "desc": "A wholesome combination of Ragi Sangati with Chepala Pulusu for a coastal treat."
@@ -170,7 +170,7 @@
   {
     "id": 22,
     "title": "NATUKODI PULUSU",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 350,
     "price_Non_AC": 350,
     "desc": "A savory country chicken curry to satisfy your taste buds."
@@ -178,7 +178,7 @@
   {
     "id": 23,
     "title": "RAGI SANGATI WITH NATUKODI PULUSU",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 400,
     "price_Non_AC": 400,
     "desc": "A wholesome combination of Ragi Sangati with nathukodi Pulusu for a rayalaseema treat."
@@ -186,7 +186,7 @@
   {
     "id": 24,
     "title": "PRAWNS CURRY",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 320,
     "price_Non_AC": 300,
     "desc": "Savor the taste of the sea with flavorful prawns curry."
@@ -194,7 +194,7 @@
   {
     "id": 25,
     "title": "PRAWNS IGURU",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 340,
     "price_Non_AC": 320,
     "desc": "Indulge in the aromatic and spicy Prawns Iguru for a delightful"
@@ -202,7 +202,7 @@
   {
     "id": 26,
     "title": "CURD RICE",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 90,
     "price_Non_AC": 90,
     "desc": "Cool and refreshing curd rice for a soothing end to your meal."
@@ -210,7 +210,7 @@
   {
     "id": 27,
     "title": "OMLETTE",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 50,
     "price_Non_AC": 50,
     "desc": "Classic omelette made with fresh eggs and a touch of perfection."
@@ -218,7 +218,7 @@
   {
     "id": 28,
     "title": "BOILED EGGS (2)",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 40,
     "price_Non_AC": 40,
     "desc": "Simple and nutritious boiled eggs to fuel your day."
@@ -226,7 +226,7 @@
   {
     "id": 29,
     "title": "FRIED EGGS (2)",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 50,
     "price_Non_AC": 50,
     "desc": "Savor the crispy goodness of fried eggs for a hearty breakfast."
@@ -234,7 +234,7 @@
   {
     "id": 30,
     "title": "EGG BURJI",
-    "category": "South_Indian",
+    "category": "SOUTH_INDIAN",
     "price_AC": 80,
     "price_Non_AC": 80,
     "desc": "Scrambled eggs with a burst of spices, a flavorful addition to your meal."
@@ -242,15 +242,15 @@
   {
     "id": 1,
     "title": "TANDOORI CHICKEN",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_half": 250,
     "price_full": 450,
-    "desc": "Juicy tandoori chicken for a delightful experience."
+    "desc": "Juicy TANDOORi chicken for a delightful experience."
   },
   {
     "id": 2,
     "title": "GRILLED CHICKEN",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_half": 250,
     "price_full": 450,
     "desc": "Juicy grilled chicken for a delightful experience."
@@ -258,7 +258,7 @@
   {
     "id": 3,
     "title": "TANGADI KABAB",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_half": 160,
     "price_full": 300,
     "desc": "Tender Tangadi Kabab for a flavorful indulgence."
@@ -266,7 +266,7 @@
   {
     "id": 4,
     "title": "CHICKEN TIKKA (BONELESS)",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_half": 160,
     "price_full": 300,
     "desc": "Tender Tangadi Kabab for a flavorful indulgence."
@@ -274,7 +274,7 @@
   {
     "id": 5,
     "title": "CHICKEN SHAWARMA",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_single": 100,
     "price_full": null,
     "desc": "Classic Chicken Shawarma for a tasty treat."
@@ -282,7 +282,7 @@
   {
     "id": 6,
     "title": "ROTI",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_single": 20,
     "price_full": null,
     "desc": "Soft and fluffy Roti to accompany your meal."
@@ -290,7 +290,7 @@
   {
     "id": 7,
     "title": "BUTTER ROTI",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_single": 25,
     "price_full": null,
     "desc": "Roti with a touch of butter for added richness."
@@ -298,7 +298,7 @@
   {
     "id": 8,
     "title": "BUTTER NAAN",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_single": 30,
     "price_full": null,
     "desc": "Flavorful Butter Naan to elevate your dining experience."
@@ -306,7 +306,7 @@
   {
     "id": 9,
     "title": "PLAIN NAAN",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_single": 20,
     "price_full": null,
     "desc": "Simple and delicious Plain Naan to complement your curry."
@@ -314,7 +314,7 @@
   {
     "id": 10,
     "title": "ROMALI ROTI",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_single": 20,
     "price_full": null,
     "desc": "Thin and soft Romali Roti for a delightful texture."
@@ -322,7 +322,7 @@
   {
     "id": 11,
     "title": "LACHA PARATA",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_single": 35,
     "price_full": null,
     "desc": "Flaky and layered Lacha Parata for a scrumptious bite."
@@ -330,7 +330,7 @@
   {
     "id": 12,
     "title": "ALU PARATA",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_single": 40,
     "price_full": null,
     "desc": "Parata stuffed with delicious spiced potatoes."
@@ -338,7 +338,7 @@
   {
     "id": 6,
     "title": "PHULKA",
-    "category": "Tandoor",
+    "category": "TANDOOR",
     "price_single": 15,
     "price_full": null,
     "desc": "Soft and fluffy phulka to accompany your meal."
@@ -346,360 +346,360 @@
   {
     "id": 1,
     "title": "PANEER BUTTER MASALA",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 180,
     "desc": "Creamy and flavorful Paneer Butter Masala for a delightful vegetarian option."
   },
   {
     "id": 2,
     "title": "PALAK PANEER",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 180,
     "desc": "Nutrient-packed Palak Paneer for a healthy and tasty choice."
   },
   {
     "id": 3,
     "title": "KADAI PANEER",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 180,
     "desc": "Paneer cooked in a kadai with aromatic spices for an authentic taste."
   },
   {
     "id": 4,
     "title": "KAJU PANEER",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 190,
     "desc": "Rich and indulgent Kaju Paneer for a luxurious dining experience."
   },
   {
     "id": 5,
     "title": "DAL TADKA",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 80,
     "desc": "Tadka-infused Dal for a simple and comforting lentil dish."
   },
   {
     "id": 6,
     "title": "DAL FRY",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 80,
     "desc": "Fried Dal for a flavorful twist to the traditional lentil preparation."
   },
   {
     "id": 7,
     "title": "MUSHROOM MASALA CURRY",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 150,
     "desc": "Savory Mushroom Masala Curry for a delectable vegetarian option."
   },
   {
     "id": 8,
     "title": "MUSHROOM CURRY",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 150,
     "desc": "Mushroom Curry cooked to perfection for a satisfying meal."
   },
   {
     "id": 9,
     "title": "KADAI MUSHROOM",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 160,
     "desc": "Mushrooms prepared in a kadai with aromatic spices for an authentic taste."
   },
   {
     "id": 10,
     "title": "BUTTER CHICKEN (BONE LESS)",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 220,
     "desc": "Butter Chicken Boneless for a rich and creamy non-vegetarian delight."
   },
   {
     "id": 11,
     "title": "CHICKEN TIKKA MASALA",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 200,
     "desc": "Chicken Tikka Masala for a flavorful and aromatic chicken preparation."
   },
   {
     "id": 12,
     "title": "CHICKEN KOLHAPURI",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 200,
     "desc": "Chicken Kolhapuri for a spicy and authentic Maharashtrian taste."
   },
   {
     "id": 13,
     "title": "CHICKEN MASALA WITH BONE",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 150,
     "desc": "Chicken Masala with Bone for a hearty and satisfying meal."
   },
   {
     "id": 14,
     "title": "CHICKEN MASALA BONE LESS",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 200,
     "desc": "Boneless Chicken Masala for a rich and indulgent chicken option."
   },
   {
     "id": 15,
     "title": "CHICKEN DO PIAZA",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 200,
     "desc": "Chicken Do Piaza for a flavorful and aromatic chicken preparation."
   },
   {
     "id": 16,
     "title": "MUTTON MASALA",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 300,
     "desc": "Mutton Masala for a hearty and flavorful mutton dish."
   },
   {
     "id": 17,
     "title": "KADAI MUTTON",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 300,
     "desc": "Mutton cooked in a kadai with aromatic spices for an authentic taste."
   },
   {
     "id": 18,
     "title": "MUTTON ROGAN JOSH",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 300,
     "desc": "Mutton Rogan Josh for a rich and aromatic mutton preparation."
   },
   {
     "id": 19,
     "title": "CHICKEN MOGHALAI",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 200,
     "desc": "Chicken Mughlai for a royal and indulgent chicken preparation."
   },
   {
     "id": 20,
     "title": "CHICKEN AFGHANI",
-    "category": "Indian",
+    "category": "INDIAN",
     "price": 200,
     "desc": "Chicken Afghani for a flavorful and aromatic chicken dish."
   },
   {
     "id": 1,
     "title": "CHICKEN BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 160,
     "price_full": 250,
-    "desc": "Aromatic Chicken Biryani with a perfect blend of spices, available in single and full portions."
+    "desc": "Aromatic Chicken BIRYANI with a perfect blend of spices, available in single and full portions."
   },
   {
     "id": 2,
     "title": "CHICKEN FRY PIECE BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 200,
     "price_full": 300,
-    "desc": "Chicken Biryani with fried chicken pieces, available in single and full portions."
+    "desc": "Chicken BIRYANI with fried chicken pieces, available in single and full portions."
   },
   {
     "id": 3,
     "title": "MUTTON BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 300,
     "price_full": 450,
-    "desc": "Flavorful Mutton Biryani, available in single and full portions."
+    "desc": "Flavorful Mutton BIRYANI, available in single and full portions."
   },
   {
     "id": 4,
     "title": "MUTTON FRY PIECE BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 350,
     "price_full": 500,
-    "desc": "Mutton Biryani with fried mutton pieces, available in single and full portions."
+    "desc": "Mutton BIRYANI with fried mutton pieces, available in single and full portions."
   },
   {
     "id": 5,
     "title": "SRINU RESTAURANT SPECIAL CHICKEN BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 300,
     "price_full": 450,
-    "desc": "Special Chicken Biryani from Srinu Restaurant, available in single and full portions."
+    "desc": "Special Chicken BIRYANI from Srinu Restaurant, available in single and full portions."
   },
   {
     "id": 6,
     "title": "FAMILY PACK CHICKEN BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 600,
     "price_full": null,
-    "desc": "Generous family pack of Chicken Biryani to share and enjoy together."
+    "desc": "Generous family pack of Chicken BIRYANI to share and enjoy together."
   },
   {
     "id": 7,
     "title": "JUMBO CHICKEN BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 900,
     "price_full": null,
-    "desc": "Jumbo-sized Chicken Biryani for a grand feast and celebration."
+    "desc": "Jumbo-sized Chicken BIRYANI for a grand feast and celebration."
   },
   {
     "id": 8,
     "title": "MUTTON FAMILY PACK BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 900,
     "price_full": null,
-    "desc": "Hearty family pack of Mutton Biryani to satisfy the entire family."
+    "desc": "Hearty family pack of Mutton BIRYANI to satisfy the entire family."
   },
   {
     "id": 9,
     "title": "MUTTON JUMBO PACK BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 1200,
     "price_full": null,
-    "desc": "Grand jumbo pack of Mutton Biryani for a lavish dining experience."
+    "desc": "Grand jumbo pack of Mutton BIRYANI for a lavish dining experience."
   },
   {
     "id": 10,
     "title": "EGG BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 120,
     "price_full": 180,
-    "desc": "Delicious Egg Biryani, available in single and full portions."
+    "desc": "Delicious Egg BIRYANI, available in single and full portions."
   },
   {
     "id": 10,
     "title": "PANEER BIRYANI",
-    "category": "Biryani",
+    "category": "BIRYANI",
     "price_single": 200,
     "price_full": null,
-    "desc": "Delicious PANEER Biryani, available in single and full portions."
+    "desc": "Delicious PANEER BIRYANI, available in single and full portions."
   },
   {
     "id": 1,
     "title": "VEG FRIED RICE",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 100,
     "desc": "Delicious Veg Fried Rice for a flavorful and satisfying vegetarian option."
   },
   {
     "id": 2,
     "title": "EGG FRIED RICE",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 120,
     "desc": "Egg Fried Rice with a perfect blend of flavors for a tasty and fulfilling meal."
   },
   {
     "id": 3,
     "title": "CHICKEN FRIED RICE",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 150,
     "desc": "Chicken Fried Rice with tender chicken pieces for a delightful non-vegetarian option."
   },
   {
     "id": 4,
     "title": "JEERA FRIED RICE",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 120,
     "desc": "Jeera Fried Rice for a unique and aromatic twist to traditional fried rice."
   },
   {
     "id": 5,
     "title": "CHILLI CHICKEN WITH BONE",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 150,
     "desc": "Chilli Chicken with Bone for a spicy and flavorful chicken dish."
   },
   {
     "id": 6,
     "title": "CHILLI CHICKEN BONE LESS",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 200,
     "desc": "Boneless Chilli Chicken for a spicy and indulgent Chinese preparation."
   },
   {
     "id": 7,
     "title": "CHICKEN - 65 WITH BONE",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 150,
     "desc": "Chicken - 65 with Bone for a crispy and spicy chicken appetizer."
   },
   {
     "id": 8,
     "title": "CHICKEN -65 BONE LESS",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 200,
     "desc": "Boneless Chicken - 65 for a crispy and flavorful chicken appetizer."
   },
   {
     "id": 9,
     "title": "PEPPER CHICKEN BONE LESS",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 200,
     "desc": "Pepper Chicken Boneless for a spicy and peppery chicken dish."
   },
   {
     "id": 10,
     "title": "PANEER - 65",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 180,
     "desc": "Paneer - 65 for a spicy and flavorful paneer appetizer."
   },
   {
     "id": 11,
     "title": "CHILLY PANEER",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 180,
     "desc": "Chilly Paneer for a delicious and spicy paneer preparation."
   },
   {
     "id": 12,
     "title": "VEG MANCHURIA",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 120,
     "desc": "Vegetable Manchurian for a savory and delectable vegetarian option."
   },
   {
     "id": 13,
     "title": "GOBI - 65",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 120,
     "desc": "Gobi - 65 for a crispy and spicy cauliflower appetizer."
   },
   {
     "id": 14,
     "title": "CHILLY MUSHROOM",
-    "category": "Chinese",
+    "category": "CHINESE",
     "price": 180,
     "desc": "Chilly Mushroom for a flavorful and spicy mushroom preparation."
   },
   {
     "id": 1,
     "title": "MINERAL WATER 1 LTR",
-    "category": "Liquids",
+    "category": "BEVERAGES",
     "price": 20,
     "desc": "Refreshing 1-liter Mineral Water for a hydrating and crisp experience."
   },
   {
     "id": 2,
     "title": "MINERAL WATER 1/2 LTR",
-    "category": "Liquids",
+    "category": "BEVERAGES",
     "price": 10,
     "desc": "Convenient and affordable half-liter Mineral Water for a quick refreshment."
   },
   {
     "id": 3,
     "title": "SOFT DRINK",
-    "category": "Liquids",
+    "category": "BEVERAGES",
     "desc": "Cool and fizzy Soft Drink for a delightful and effervescent beverage."
   },
   {
     "id": 4,
     "title": "SOFT DRINK (GLASS)",
-    "category": "Liquids",
+    "category": "BEVERAGES",
     "price": 15,
     "desc": "Cool and fizzy Soft Drink for a delightful and effervescent beverage."
   },
   {
     "id": 5,
     "title": "GOLI SODA",
-    "category": "Liquids",
+    "category": "BEVERAGES",
     "desc": "Cool and fizzy Soft Drink for a delightful and effervescent beverage."
   }
 ]
