@@ -35,6 +35,9 @@ const menuList = (menuItems) => {
       <h4>${item.title}</h4>
 
       ${(() => {
+        if (item.price_half && item.price_full) {
+          return `<h4 class="price"> ₹${item.price_half} (Half) <br> ${item.price_full} (Full)</h4>`;
+        }
         if (item.price_single && item.price_full) {
           return `<h4 class="price"> ₹${item.price_single} (Single) <br> ${item.price_full} (Full)</h4>`;
         } else if (item.price_single) {
