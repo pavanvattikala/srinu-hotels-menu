@@ -344,6 +344,22 @@
     "desc": "Soft and fluffy phulka to accompany your meal."
   },
   {
+    "id": 7,
+    "title": "CHICKEN DRUM STICK",
+    "category": "TANDOOR",
+    "price_half": 180,
+    "price_full": 350,
+    "desc": "Tender Chiken Sticks for a flavorful indulgence"
+  },
+  {
+    "id": 8,
+    "title": "GARLIC NAAN",
+    "category": "TANDOOR",
+    "price_single": 40,
+    "price_full": null,
+    "desc": "Simple and delicious Garlic Naan to complement your curry."
+  },
+  {
     "id": 1,
     "title": "PANEER BUTTER MASALA",
     "category": "INDIAN",
@@ -482,6 +498,13 @@
     "category": "INDIAN",
     "price": 200,
     "desc": "Chicken Afghani for a flavorful and aromatic chicken dish."
+  },
+  {
+    "id": 21,
+    "title": "KADAI CHICKEN",
+    "category": "INDIAN",
+    "price": 200,
+    "desc": "kadai Chicken for a flavorful and aromatic chicken dish."
   },
   {
     "id": 1,
